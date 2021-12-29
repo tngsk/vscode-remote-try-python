@@ -1,1 +1,6 @@
 flask
+numpy
+pandas
+openpyxl
+xlrd
+Django
